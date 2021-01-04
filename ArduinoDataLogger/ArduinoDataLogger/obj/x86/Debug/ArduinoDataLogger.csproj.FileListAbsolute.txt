@@ -1,0 +1,10 @@
+C:\Users\Habibe\Desktop\c#\FormUygulamaları\ArduinoDataLogger\ArduinoDataLogger\obj\x86\Debug\ArduinoDataLogger.Form1.resources
+C:\Users\Habibe\Desktop\c#\FormUygulamaları\ArduinoDataLogger\ArduinoDataLogger\obj\x86\Debug\ArduinoDataLogger.Properties.Resources.resources
+C:\Users\Habibe\Desktop\c#\FormUygulamaları\ArduinoDataLogger\ArduinoDataLogger\obj\x86\Debug\ArduinoDataLogger.csproj.GenerateResource.Cache
+C:\Users\Habibe\Desktop\c#\FormUygulamaları\ArduinoDataLogger\ArduinoDataLogger\bin\Debug\ArduinoDataLogger.exe
+C:\Users\Habibe\Desktop\c#\FormUygulamaları\ArduinoDataLogger\ArduinoDataLogger\bin\Debug\ArduinoDataLogger.pdb
+C:\Users\Habibe\Desktop\c#\FormUygulamaları\ArduinoDataLogger\ArduinoDataLogger\obj\x86\Debug\ArduinoDataLogger.exe
+C:\Users\Habibe\Desktop\c#\FormUygulamaları\ArduinoDataLogger\ArduinoDataLogger\obj\x86\Debug\ArduinoDataLogger.pdb
+C:\Users\Habibe\Desktop\c#\FormUygulamaları\ArduinoDataLogger\ArduinoDataLogger\obj\x86\Debug\ArduinoDataLogger.csprojResolveAssemblyReference.cache
+C:\Users\Habibe\Desktop\ArduinoDataLogger\ArduinoDataLogger\obj\x86\Debug\ArduinoDataLogger.exe
+C:\Users\Habibe\Desktop\ArduinoDataLogger\ArduinoDataLogger\obj\x86\Debug\ArduinoDataLogger.pdb

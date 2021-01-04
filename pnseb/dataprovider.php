@@ -1,0 +1,9 @@
+<?php
+$data=file_get_contents("data.txt");
+$data=preg_split('/\r\r\n/',$data);
+for($i=0;$i<sizeof($data);$i++){
+	$data[$i]=explode("-",$data[$i]);
+}
+$data=json_encode($data);
+print_r($data);
+?>
